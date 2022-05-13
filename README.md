@@ -1,5 +1,6 @@
 # Simple_NFT_registration
-This is simple dApp to mint and showcase NFTs
+This is simple dApp to mint and showcase NFTs.
+As a frontend uses Streamlit.
 
 # Environment
 
