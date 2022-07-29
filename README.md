@@ -1,4 +1,4 @@
-# Simple_NFT_registration
+# Simple NFT registration
 
 This is simple dApp to mint and showcase NFTs.
 
